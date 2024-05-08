@@ -1,7 +1,11 @@
 # NLP-Short-Text-Sentiment-Analysis
 
-Repo for NLP Project on Short Text Analysis for Sentiment Evaluation\
-Short explanation
+This is the repo for NLP Project on **Short Text Analysis for Sentiment Evaluation**\
+The overarching framework of our project involves several key stages: 1) identifying and pre-processing
+raw data, 2) developing an optimal model using machine learning algorithms for dataset classification, 3)
+building a model based on BERT for dataset classification, and 4) evaluating and comparing the performance
+and results derived from analyzing short, unstructured texts 5) adding features and visualizations for better
+user interface and comprehensive understanding of sentiment analysis.
 
 ## File and Folder List
 1. **Code**
@@ -23,3 +27,8 @@ Short explanation
   - Human Labeled Results
     - This includes the label column for 250 datapoints that we labeled to calculate accracy
   - Additional Feature Outcomes
+
+# Collaborators
+<a href="https://github.com/kmjhyn/NLP-Short-Text-Sentiment-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kmjhyn/NLP-Short-Text-Sentiment-Analysis" />
+</a>
