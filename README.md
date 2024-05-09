@@ -14,12 +14,15 @@ user interface and comprehensive understanding of sentiment analysis.
   - Youtube Scraping
   - Additional Features
 
-2. **Dataset**
-  - Twitter Dataset
-    - Link to Twitter Dataset: https://virginia.box.com/s/fd92x2f1494dqo4ly87qsuf5s98hi30c
-    - Twitter dataset was too big to be uploaded on github, thus is uploaded on UVA BOX.
-  - Youtube Dataset
-    - Scraped youtube dataset with the topic 'impact of AI'
+2. **Data**
+  - Dataset
+    - Twitter Dataset
+      - Link to Twitter Dataset: https://virginia.box.com/s/fd92x2f1494dqo4ly87qsuf5s98hi30c
+      - Twitter dataset was too big to be uploaded on github, thus is uploaded on UVA BOX.
+    - Youtube Dataset
+      - Scraped youtube dataset with the topic 'impact of AI'
+    - youtube_ai_test_result_wordcloud.xlsx
+    - GoogleNews-vectors-negative300.bin
   - 5ML Outcome
     - 5ML pickled model
     - 5ML youtube results
