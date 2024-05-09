@@ -30,9 +30,3 @@ user interface and comprehensive understanding of sentiment analysis.
   - Human Labeled Results
     - This includes the label column for 250 datapoints that we labeled to calculate accracy
   - Additional Feature Outcomes
-
-
-# Collaborators
-<a href = "https://github.com/kmjhyn/NLP-Short-Text-Sentiment-Analysis/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=kmjhyn/NLP-Short-Text-Sentiment-Analysis"/>
-</a>
